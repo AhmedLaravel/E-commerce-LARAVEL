@@ -1,0 +1,716 @@
+/* 206 of 1527 CSS properties converted by rtl.daskhat.ir 
+ These properties should be override originals. 
+ just load rtl css file after original css file.*/ 
+
+/* body {direction:rtl;} */
+
+.banner-top{
+    padding: 0.5em 7.5em 0 0em ;
+    margin: 0% 0 4% 4% ;
+}
+
+.banner-top1{
+    margin: 0% 0 4% 0% ;
+}
+
+.banner-top2{
+    margin: 0% 0 0% 4% ;
+}
+
+.banner-top3{
+    padding: 11.5em 6em 0 0em ;
+    margin: 0% 0 0% 0% ;
+}
+
+.drop-down select{
+    background: url(../images/d-arrow.png) no-repeat 8% 55%;
+}
+
+.itemContainer{
+    float: right;
+}
+
+.itemContainer div{
+    float: right;
+    margin: 5px 20px 5px 20px ;
+}
+
+.cartHeaders{
+    float: right;
+}
+
+.cartHeaders div{
+    float: right;
+    margin: 5px 20px 5px 20px ;
+}
+
+.box_1{
+    float: right;
+    margin-right: 4%;
+}
+
+.box_1 h3{
+    float: right;
+}
+
+.box_1 h3 img{
+    margin-right: 5px;
+}
+
+.box_1 p{
+    float: right;
+    text-align: right;
+}
+
+.cart-item{
+    float: right;
+    margin-left: 5%;
+}
+
+.cart-item-info{
+    float: right;
+}
+
+.delivery p{
+    float: right;
+}
+
+.delivery span{
+    float: left;
+}
+
+.close1,.close2{
+    background: url('../images/close_1.png') no-repeat right 0px 0px;
+    left: 0px;
+}
+
+.total-item h4{
+    margin-left: 6em;
+}
+
+ul.total_price{
+    margin: 1em 0 0 0 ;
+}
+
+ul.total_price li.last_price{
+    float: right;
+}
+
+.price-details span{
+    float: right;
+}
+
+a.item_add1{
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+ul.qty li{
+    margin-left: 10%;
+}
+
+.top_left{
+    float: left;
+}
+
+.top_left h2 span{
+    margin-left: 0px;
+    background: url(../images/phon.png) no-repeat right 0px 2px;
+}
+
+.top_right{
+    float: right;
+}
+
+.top_right ul li{
+    margin-left: 10px;
+}
+
+.top_right ul li:last-child{
+    margin-left: 0;
+}
+
+.logo{
+    float: right;
+}
+
+.header_right{
+    float: left;
+}
+
+.search{
+    float: right;
+}
+
+.search input[type="submit"]{
+    background: url('../images/search.png') no-repeat right 0px 1px;
+    left: 6px;
+}
+
+.log{
+    float: right;
+}
+
+.reg{
+    float: right;
+}
+
+.create_btn{
+    float: right;
+}
+
+.icon1{
+    float: right;
+    margin-left: 0%;
+}
+
+.icon1 li{
+    float: right;
+}
+
+.icon1 li:last-child{
+    border-left: none;
+}
+
+.icon1 ul{
+    margin: 20px 0 0 0 ;
+    left: -140px;
+}
+
+.icon1 ul ul{
+    right: 158px;
+    margin: 0 20px 0 0 ;
+}
+
+.icon1 ul li:first-child a{
+    border-top-right-radius: 5px;
+}
+
+.icon1 ul li:first-child > a:after{
+    right: 45%;
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+}
+
+.icon1 ul ul li:first-child a:after{
+    right: -100px;
+    border-right: 0;
+    border-left: 20px solid #323757;
+}
+
+.c1{
+    background: url(../images/art.png) no-repeat right 0px 0px;
+}
+
+.c2{
+    background: url(../images/bag.png) no-repeat right 0px 1px;
+}
+
+.arriv-left{
+    padding-right: 0;
+}
+
+.arriv-info{
+    right: 119px;
+}
+
+.arriv-right{
+    padding-left: 0;
+}
+
+.arriv-left1{
+    padding-right: 0;
+}
+
+.arriv-left2{
+    padding-right: 0;
+}
+
+.arriv-right1{
+    padding-left: 0;
+}
+
+.arriv-right2{
+    padding-left: 0;
+}
+
+.arriv-info1{
+    right: 248px;
+}
+
+i.ars{
+    background: url(../images/arrwss.png)no-repeat right 58px -1px;
+}
+
+.arriv-info2{
+    right: 42px;
+}
+
+.arriv-info3{
+    right: 42px;
+}
+
+i.facebok{
+    background: url(../images/img-sprite.png)no-repeat right -0px -8px;
+    float: right;
+}
+
+i.facebok:hover{
+    background: url(../images/img-sprite.png)no-repeat right -0px -46px;
+}
+
+i.twiter{
+    background: url(../images/img-sprite.png)no-repeat right -39px -8px;
+    float: right;
+}
+
+i.twiter:hover{
+    background: url(../images/img-sprite.png)no-repeat right -40px -47px;
+}
+
+i.goog{
+    background: url(../images/img-sprite.png)no-repeat right -77px -8px;
+    float: right;
+}
+
+i.goog:hover{
+    background: url(../images/img-sprite.png)no-repeat right -77px -46px;
+}
+
+i.inst{
+    background: url(../images/img-sprite.png)no-repeat right -117px -7px;
+    float: right;
+}
+
+i.inst:hover{
+    background: url(../images/img-sprite.png)no-repeat right -117px -47px;
+}
+
+.fooll h5{
+    padding-left: 1em;
+}
+
+.stay-left{
+    float: right;
+    margin-left: 0.5%;
+}
+
+.btn-1{
+    float: right;
+}
+
+i.phone{
+    background: url(../images/img-sprite.png) no-repeat right -175px -34px;
+    margin-left: 0.5em;
+}
+
+i.add{
+    background: url(../images/img-sprite.png) no-repeat right -175px -6px;
+    margin-left: 0.5em;
+}
+
+i.mail{
+    background: url(../images/img-sprite.png) no-repeat right -175px -72px;
+    margin-left: 0.5em;
+}
+
+.our-left{
+    float: right;
+}
+
+.our-left1{
+    float: right;
+}
+
+.special h3:before{
+    right: 301px;
+}
+
+.special h3:after{
+    left: 301px;
+}
+
+ul.grid_2 li{
+    float: right;
+}
+
+.rslides li{
+    right: 0;
+}
+
+.rslides li:first-child{
+    float: right;
+}
+
+.rslides img{
+    float: right;
+}
+
+.caption{
+    right: 0%;
+}
+
+ul.callbacks_tabs.callbacks1_tabs{
+    text-align: left;
+}
+
+.callbacks_nav{
+    right: 0;
+    background: transparent url("../images/left.png") no-repeat right top;
+}
+
+.callbacks_nav.next{
+    right: auto;
+    background: transparent url("../images/right.png") no-repeat right top;
+    left: 0;
+}
+
+@media(max-width:1024px){
+    .caption{
+        right: 0%;
+    }
+
+    .banner-top{
+        padding: 0.5em 5em 0 0em ;
+    }
+
+    .banner-top3{
+        padding: 10em 4em 0 0em ;
+    }
+
+    .total-item h4{
+        margin-left: 3em;
+    }
+
+}
+
+@media(max-width:768px){
+    .banner-left{
+        float: right;
+    }
+
+    .banner-right{
+        float: left;
+    }
+
+    .banner-top3{
+        float: right;
+    }
+
+    .banner-top2{
+        float: right;
+    }
+
+    .banner-top1{
+        float: right;
+    }
+
+    .banner-top{
+        float: right;
+    }
+
+    .our-st{
+        float: right;
+    }
+
+    .myac{
+        float: right;
+    }
+
+    .abt{
+        float: right;
+    }
+
+    .cust{
+        float: right;
+    }
+
+    .shop-1{
+        float: right;
+    }
+
+    .shop_box{
+        float: right;
+    }
+
+    .about-1{
+        float: right;
+    }
+
+    .about-2{
+        float: right;
+    }
+
+    .about-3{
+        float: right;
+    }
+
+}
+
+@media(max-width:640px){
+    .logo{
+        float: right;
+    }
+
+    .navbar-toggle{
+        float: right;
+    }
+
+    .cust{
+        float: right;
+    }
+
+    .abt{
+        float: right;
+    }
+
+    .box_1{
+        margin-right: 3%;
+    }
+
+}
+
+@media(max-width:480px){
+    ul.callbacks_tabs.callbacks1_tabs{
+        right: 4px;
+    }
+
+    .shop-1{
+        float: right;
+    }
+
+    ul.grid_2 li{
+        float: right;
+    }
+
+    .abt{
+        float: right;
+    }
+
+    .cust{
+        float: right;
+    }
+
+    .myac{
+        float: right;
+    }
+
+    .our-st{
+        float: right;
+    }
+
+    .shop_box{
+        float: right;
+    }
+
+    .about-1{
+        float: right;
+    }
+
+    .about-2{
+        float: right;
+    }
+
+    .to{
+        float: right;
+    }
+
+    .text{
+        float: right;
+    }
+
+    .images_3_of_2{
+        float: right;
+    }
+
+    .desc{
+        float: right;
+        margin: 2% 2.6% 0% 0 ;
+    }
+
+    .top-comment-right{
+        float: right;
+        margin-right: 0;
+    }
+
+}
+
+@media(max-width:320px){
+    ul.callbacks_tabs.callbacks1_tabs{
+        right: 0px;
+    }
+
+    .our-st{
+        float: right;
+    }
+
+    .about-2{
+        float: right;
+    }
+
+    .about-3{
+        float: right;
+    }
+
+}
+
+.new-box{
+    left: 10px;
+}
+
+.new-box, .sale-box{
+    text-align: right;
+}
+
+.new-label{
+    right: 0px;
+}
+
+.sale-box{
+    right: 10px;
+}
+
+.sale-label{
+    right: 0px;
+}
+
+span.reducedfrom{
+    margin-left: 8%;
+}
+
+.to{
+    float: right;
+}
+
+.to input[type="text"]{
+    float: right;
+}
+
+.text{
+    float: right;
+}
+
+.form-submit{
+    float: left;
+}
+
+.shop-1 li a span{
+    background: url(../images/rigt-ar.png) no-repeat right 0px 0px;
+    margin-left: 0.5em;
+}
+
+.shop-1 h3{
+    text-align: right;
+}
+
+.about h4{
+    text-align: right;
+}
+
+.about p{
+    text-align: right;
+}
+
+.shop-4 li a span{
+    background: url(../images/rigt-ar.png) no-repeat right 0px 0px;
+    margin-left: 0.5em;
+}
+
+.content:first-child{
+    margin-right: 0;
+}
+
+.content{
+    float: right;
+}
+
+.images_3_of_2{
+    float: right;
+}
+
+.single-cart div{
+    float: right;
+    margin-left: 30px;
+}
+
+.price-old{
+    margin-left: 10px;
+}
+
+.desc{
+    float: right;
+    margin: 0% 2.6% 0% 0 ;
+}
+
+.rightsidebar{
+    float: right;
+    margin: 0% 1.6% 0% 0 ;
+}
+
+.prod-stock-2{
+    float: right;
+    padding-left: 10px;
+}
+
+.prod-stock{
+    background: url('../images/stock.png') right 0px no-repeat;
+    float: right;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+span.price-new{
+    margin-left: 15px;
+}
+
+.links ul li img{
+    padding-left: 10px;
+}
+
+.desc.span_3_of_2 form{
+    float: left;
+}
+
+.resp-tab-item:first-child{
+    border-right: none;
+}
+
+.resp-tab-item{
+    float: right;
+}
+
+.resp-tabs-container{
+    clear: right;
+}
+
+.top-comment-left{
+    float: right;
+}
+
+.top-comment-right{
+    float: right;
+    margin-right: 1em;
+}
+
+ul.star-footer li i{
+    background: url("../images/star.png") no-repeat right 0px 0px;
+}
+
+.top-comment-right p{
+    margin: 1em 1em 0 0em ;
+}
+
+@media(max-width:767px){
+    .navbar-toggle{
+        float: right;
+    }
+
+}
+
+#toTop{
+    left: 10px;
+    background: url(../images/arrow.1.png) no-repeat right 0px 0px;
+}
+

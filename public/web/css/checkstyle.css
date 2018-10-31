@@ -1,0 +1,129 @@
+body {
+  background: #fff;
+  font-family: 'Roboto';
+}
+#container {
+  margin: 2em auto 1em;
+  position: relative;
+  box-sizing: border-box;
+}
+p {
+  margin: 0 0 3em;
+}
+.fa-lock {
+  position: absolute;
+  color: #5ed9eb;
+  right: 2.3em;
+  top: 1.2em;
+  line-height: 3em;
+  border-radius: 100%;
+}
+h1 {
+  color: #5ed9eb;
+  margin: 0;
+  background: rgba(94,217,235,0.3);
+  font-weight: 700;
+  line-height: 1;
+  padding: 2em 1em;
+  font-size: 1em;
+  letter-spacing: 0.5em;
+  font-family: 'Montserrat';
+  text-transform: uppercase;
+  box-sizing: border-box;
+  text-align: center;
+}
+h1 span {
+  color: #5ed9eb;
+  margin: 0 0 0;
+  display: block;
+  font-size: 6em;
+  letter-spacing: -0.06em;
+  text-transform: uppercase;
+  font-family: 'Roboto Mono';
+}
+h1 span:before {
+  content: '$';
+  font-size: 0.5em;
+  position: relative;
+  top: -0.6em;
+  left: -0.2em;
+}
+h1 span:after {
+  content: '00';
+  font-size: 0.3em;
+  position: relative;
+  letter-spacing: 0.03em;
+  top: -1.7em;
+  right: -0.1em;
+}
+form {
+  padding-top: 1em;
+  margin: 0;
+  width: 18em;
+  margin: auto;
+  text-align: center;
+}
+label {
+  color: rgba(0,0,0,0.6);
+  margin-bottom: 0;
+  padding: 0.1em 0.5em;
+  width: 100%;
+  font-size: 0.8em;
+  background: rgba(255,255,0,0.3);
+}
+input {
+  display: block;
+  border: none;
+  border-bottom: 2px dotted rgba(0,0,0,0.2);
+  padding: 1.2em 0.2em 0.4em;
+  text-align: center;
+  font-size: 1.2em;
+  width: 100%;
+  color: rgba(0,0,0,0.6);
+  letter-spacing: 0.01em;
+  box-sizing: border-box;
+  background: transparent;
+  font-family: 'Roboto Mono';
+}
+input:focus {
+  outline: none;
+  border-bottom: 2px solid #5ed9eb;
+  background: transparent;
+}
+input[type="submit"] {
+  width: 100%;
+  background: rgba(94,217,235,0.3);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border: none;
+  padding: 1.5em 0.8em;
+  color: #5ed9eb;
+  margin-top: 4em;
+  margin-bottom: 0;
+  font-size: 1em;
+  border-radius: 3px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+input[type="submit"]:hover {
+  background: #5ed9eb;
+  border-color: #5ed9eb;
+  color: #fff;
+}
+::-webkit-input-placeholder {
+  color: rgba(0,0,0,0.16);
+}
+:-moz-placeholder {
+/* Firefox 18- */
+  color: rgba(0,0,0,0.2);
+  font-style: italic;
+}
+::-moz-placeholder {
+/* Firefox 19+ */
+  color: rgba(0,0,0,0.2);
+  font-style: italic;
+}
+:-ms-input-placeholder {
+  color: rgba(0,0,0,0.2);
+  font-style: italic;
+}

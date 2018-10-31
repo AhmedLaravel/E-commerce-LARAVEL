@@ -1,0 +1,1 @@
+<p>{{$total." ".$currency}}</p>

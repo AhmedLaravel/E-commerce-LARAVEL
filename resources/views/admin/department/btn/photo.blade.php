@@ -1,0 +1,1 @@
+ <img src="{{Storage::url($photo)}}" style="height: 100px; width: 100px;">

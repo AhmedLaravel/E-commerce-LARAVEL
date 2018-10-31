@@ -1,0 +1,6 @@
+@include('style.header')
+@include('style.menu')
+@include('style.nav')
+@include('style.message')
+@yield('content')
+@include('style.footer')
